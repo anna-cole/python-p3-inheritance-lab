@@ -13,4 +13,5 @@ class Student(User):
 # student = Student("ana", "cole")
 # test = student.learn("eu sou a ana")
 # print(test) put a return before the last line of code
+#print(Student.__bases__)
         
